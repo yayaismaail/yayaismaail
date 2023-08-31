@@ -52,7 +52,4 @@ I found my passion for programming at the end of 2020 and since then, I've gaine
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yayaismaail&theme=shades-of-purple&hide_border=false)<hr>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yayaismaail&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yayaismaail&theme=shades-of-purple&hide&show_icons=true&locale=en" alt="yayaismaail" /></p>
-

@@ -1,3 +1,10 @@
+<div align="center">
+ <p> <img   src="https://images.prismic.io//intuzwebsite/d394de11-2b7f-4a72-a3e0-c876f7356a40_Main.png?w=1000&h=400&q=80&auto=format,compress&fm=png8" alt="image1" /> </p>
+
+</div>
+
+</br>
+
 <h1 align="center">Hi 👋, I'm Ismail Halliru Muhammad</h1>
 
 <h3 align="center">Full-stack Web Developer</h3>
@@ -40,3 +47,12 @@ I found my passion for programming at the end of 2020 and since then, I've gaine
 <h3 align="left">Support me:</h3>
 
 <p>Feel free to check my <a href="https://yayaismaail.github.io/my-portfolio/">Portfolio</a></p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=yayaismaail&theme=shades-of-purple&hide_border=false)<hr>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yayaismaail&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yayaismaail&theme=shades-of-purple&hide&show_icons=true&locale=en" alt="yayaismaail" /></p>
+

@@ -40,9 +40,3 @@ I found my passion for programming at the end of 2020 and since then, I've gaine
 <h3 align="left">Support me:</h3>
 
 <p>Feel free to check my <a href="https://yayaismaail.github.io/my-portfolio/">Portfolio</a></p>
-  
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Uthmanbello&show_icons=true&locale=en&layout=compact" alt="Uthmanbello" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Uthmanbello&show_icons=true&locale=en" alt="Uthmanbello" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Uthmanbello&" alt="Uthmanbello" /></p>

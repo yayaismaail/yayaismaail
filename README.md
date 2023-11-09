@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Ismail Halliru Muhammad</h1>
 
-<h3 align="center">Full-stack Web Developer</h3>
+<h3 align="center">Frontend Web Developer</h3>
 
 I found my passion for programming at the end of 2020 and since then, I've gained experience in JavaScript, React, HTML5, CSS3, Python, and Ruby. I'm a certified Full-stack Web Developer with knowledge in MySQL and Postgres SQL. I can help you build and maintain dynamic web apps.
 

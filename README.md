@@ -1,10 +1,3 @@
-<div align="center">
- <p> <img   src="https://images.prismic.io//intuzwebsite/d394de11-2b7f-4a72-a3e0-c876f7356a40_Main.png?w=1000&h=400&q=80&auto=format,compress&fm=png8" alt="image1" /> </p>
-
-</div>
-
-</br>
-
 <h1 align="center">Hi 👋, I'm Ismail Halliru Muhammad</h1>
 
 <h3 align="center">Frontend Web Developer</h3>
@@ -13,7 +6,7 @@ I found my passion for programming at the end of 2020 and since then, I've gaine
 
 * 🌍  I'm based in Kano, Nigeria
 * ✉️  You can contact me at [ismailhm888@gmail.com](mailto:ismailhm888@gmail.com)
-* 🧠  I have experience in React js, JavaScript, HTML/CSS, Ruby, Ruby on Rails, Python, and Django
+* 🧠  I have experience in React, JavaScript and HTML/CSS
 * 🤝  I'm open to collaborating on any interesting project
 * ⚡  Also open for internship and job offers
 

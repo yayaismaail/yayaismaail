@@ -2,11 +2,11 @@
 
 <h3 align="center">Frontend Web Developer</h3>
 
-I found my passion for programming at the end of 2020 and since then, I've gained experience in JavaScript, React, HTML5, CSS3, Python, and Ruby. I'm a certified Full-stack Web Developer with knowledge in MySQL and Postgres SQL. I can help you build and maintain dynamic web apps.
+I have a passion for programming, I've gained experience in JavaScript, React, HTML5, CSS3. I'm a certified Frontend Web Developer with knowledge in MySQL and PostgreSQL. I can help you build and maintain dynamic web apps.
 
 * 🌍  I'm based in Kano, Nigeria
 * ✉️  You can contact me at [ismailhm888@gmail.com](mailto:ismailhm888@gmail.com)
-* 🧠  I have experience in React, JavaScript and HTML/CSS
+* 🧠  I have experience in React, JavaScript, HTML/CSS and PostgreSQL.
 * 🤝  I'm open to collaborating on any interesting project
 * ⚡  Also open for internship and job offers
 
